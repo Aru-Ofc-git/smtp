@@ -43,6 +43,11 @@
 
 ```
 
+<b> Use <a href="https://simple-mail-transfer-protocol.onrender.com/sentEmail/your_email@email.com/Email_Subject/">https://simple-mail-transfer-protocol.onrender.com/sentEmail/your_email@email.com/Email_Subject/</a> Url in Form action value.</b><br>
+<b>Note: <i> name="value" </j> name property value required</b>
+
+
+> <h2><p align='center'><b> Screenshot </b></p></h2>
 
 
 `` 📡 Get in Touch `` 
