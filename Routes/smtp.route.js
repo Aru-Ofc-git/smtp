@@ -10,8 +10,8 @@ var pass = process.env.Password
 Router.use(bodyParser.json())
 
 Router.post("/sentEmail/:email/:subject/",async (req,res)=>{
-  var queryKey = Object.keys(req.query);
-  var queryValue = Object.values(req.query);
+  var queryKey = Object.keys(req.body);
+  var queryValue = Object.values(req.body);
   
   var email = req.params.email;
   var subject = req.params.subject;
