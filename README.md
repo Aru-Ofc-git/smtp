@@ -16,7 +16,32 @@
 </p>
 
 > <h2><p align='center'><b>HOW TO USE? </b></p></h2>
+```h
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+</head>
+<body>
 
+<h2>Contact Form</h2>
+
+<form action="https://simple-mail-transfer-protocol.onrender.com/sentEmail/your_email@email.com/Email_Subject/" method="post">
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="Name"><br><br>
+
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="Email"><br><br>
+
+    <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
+
+```
 
 
 
