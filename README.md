@@ -49,6 +49,10 @@
 
 > <h2><p align='center'><b> Screenshot </b></p></h2>
 
+> <div align="center"><img align="center" alt="screenshot" src="/Public/Screenshot.png"></div>
+> <br><br>
+
+
 
 `` 📡 Get in Touch `` 
 <br>
