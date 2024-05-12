@@ -64,4 +64,15 @@
 <a href="https://dev.to/aruofc" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="mailto: arifulislam275m.com" target="_blank"><img src="https://img.shields.io/badge/Email-BB001B.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://github.com/Aru-Ofc-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
+
 <p align="center">Made With ❤️ by <a href="https://www.facebook.com/1R13A14">ARU</a> </p>
+
+
+
+
+
+
+
+<div align="center">
+<a href="https://gist.github.com/Aru-Ofc-git"><img src="https://visitor-badge.laobi.icu/badge?page_id=smtp.visitor-badge" alt="Aru-Ofc-git :: Visitor's Count" /></a>
+</div>
